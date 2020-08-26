@@ -13,5 +13,5 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 
-if speak_to_grandma(phrase)
+if speak_to_grandma(phrase.downcase)
 puts   
