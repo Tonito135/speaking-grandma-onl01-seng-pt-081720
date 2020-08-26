@@ -15,4 +15,7 @@
 speak_to_grandma == "I LOVE YOU GRANDMA!"
 
 if speak_to_grandma(phrase.downcase)
-puts   "HUH?! SPEAK UP, SONNY!"
+  puts "HUH?! SPEAK UP, SONNY!"
+elsif speak_to_grandma(phrase.uppercase)
+  puts "NO, NOT SINCE 1938!"
+else speak_to_grandma
