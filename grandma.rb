@@ -20,6 +20,5 @@ def speak_to_grandma(phrase)
   else phrase.downcase
     return "HUH?! SPEAK UP, SONNY!"
   else phrase
-    return "HUH?! SPEAK UP, SONNY!"
   end
 end
