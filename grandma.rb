@@ -18,6 +18,6 @@ if (phrase) == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
 elsif (phrase) == (phrase).upcase
   puts "NO, NOT SINCE 1938!"
-else speak_to_grandma(phrase) == (phrase).downcase
+else (phrase) == (phrase).downcase
   puts "HUH?! SPEAK UP, SONNY!"
 end
